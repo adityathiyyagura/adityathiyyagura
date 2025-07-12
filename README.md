@@ -1,63 +1,68 @@
 # 👋 Hi, I'm Aditya
 
-**Aditya Thiyyagura | Machine Learning Engineer @ eizen.ai**  
-🧠 Building at the intersection of **LLMs**, **Multimodal AI**, **Edge Inference**, and **Real-Time Systems**  
+**Aditya Thiyyagura** &nbsp;|&nbsp; Currently a Machine Learning Engineer
+🧠 Applying AI to solve real-world problems across domains — from intelligent systems to edge deployment and automation  
 📍 Hyderabad, India  
-📬 [Email](mailto:thiyyaguraadityareddy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adityathiyyagura) | [GitHub](https://github.com/adityathiyyagura)
+
+<div style="display: flex; gap: 8px; align-items: center;">
+
+  <a href="https://www.linkedin.com/in/adityathiyyagura">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:thiyyaguraadityareddy@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
 
 ## 🛠️ What I Do
 
-I’m a Machine Learning Engineer with ~2 years of experience crafting **end-to-end AI systems** — from **LLM pipelines** and **multimodal agents** to **edge-deployed video analytics**.  
-Currently at **eizen.ai**, I architect scalable, production-grade systems that turn real-time sensor data and human intent into decisive action.
+I build end-to-end AI systems that bridge real-world data and intelligent decision-making — blending models, infra, and thoughtful design to solve meaningful problems.
 
-**Highlights:**
-- 🧩 Built modular LLM pipelines with **RAG**, **PEFT**, **LoRA**, achieving 40% latency/cost reduction.
-- 🤖 Designed intelligent agents using **LangGraph**, **LangChain**, and rule engines for real-time orchestration.
-- 🎥 Built real-time analytics with **YOLO, DINO, ViT, TimesFormer** on **Kafka + WebRTC**.
-- 📦 Deployed edge systems on **Jetson, Raspberry Pi, Hailo** with offline fallback.
-- 🔁 Automated retraining with CI/CD pipelines, cutting manual tuning by 60%.
+**Things I enjoy and work on:**
+- ⚡ Crafting efficient **LLM pipelines** using techniques like **RAG**, **PEFT**, **LoRA**, and **quantization**.
+- 🧠 Building **intelligent agents** that orchestrate tools, memory, and context using **LangGraph**, **LangChain**, and custom rule based logics.
+- 🎥 Developing **real-time video analytics** using models like **YOLO, DINO, ViT**, and some other models, with **Kafka** and **WebRTC**.
+- 📦 Deploying AI at the **edge** — think Jetson, Raspberry Pi, or Hailo chips — with offline fallback and robust analytics.
+- 🔁 Automating **model retraining** with version-controlled datasets, feedback loops, and smooth deployment.
+- 🛠️ Designing systems that are modular, scalable, and developer-friendly — because clean architecture matters.
+
 
 ## 🧪 Featured Projects
 
-### 🔍 Beyond ChatGPT
-Comparative QA pipeline using ChatGPT, open-source LLMs, and StackOverflow; scored answers with NLP metrics.
+### 🔍 Beyond ChatGPT  
+Comparative QA pipeline using ChatGPT, open-source LLMs, and Stack Overflow — scored answers with NLP metrics.
 
-### 🤝 LLM-based HR Automation
+### 🤖 LLM-based HR Automation  
 Automated resume screening, JD-matching, personalized assessments, and feedback routing.
 
-### 🧠 ABSA (Aspect-Based Sentiment Analysis)
-Extracted product sentiment from 10K+ reviews with 85% accuracy.
+### 🧠 Aspect-Based Sentiment Analysis (ABSA)  
+Extracted sentiment from 10K+ product reviews with 85% accuracy.
 
-### 🕹️ Hand Gesture Cricket Simulation
-Simulated gesture-based gameplay using computer vision and time-series models.
+### 🕹️ Hand Gesture Cricket Simulator  
+Gesture-based gameplay using computer vision and time-series models.
 
-🔗 [Explore My Projects](https://github.com/adityathiyyagura)
-
----
+🔗 [Explore all projects →](https://github.com/adityathiyyagura)
 
 ## 📦 Open Source
 
-- 📦 [`pyenvrunner`](https://pypi.org/project/pyenvrunner/) — Python environment manager  
-- 📦 [`pysysmetrics`](https://pypi.org/project/pysysmetrics/) — Hardware monitoring package (CPU/GPU)
-
----
+- ⚙️ [`pyenvrunner`](https://pypi.org/project/pyenvrunner/) — Lightweight Python environment manager  
+- 📊 [`pysysmetrics`](https://pypi.org/project/pysysmetrics/) — System metrics monitor for CPU/GPU
 
 ## 🧠 Skills
 
 
 ## 🎓 Education
 
-🎓 **B.Tech in CSE**
-📊 **Major** in Artificial Intelligence and Machine Learning | 2020–2024  
-📊 **Minor** in Data Science | 2023–2024  
-🧪 Research & Mentoring | 🎨 UI/UX Designer
+🏫 **B.Tech in Computer Science and Engineering**  
+🧠 Major: Artificial Intelligence & Machine Learning (2020–2024)  
+📈 Minor: Data Science (2023–2024)  
+🔬 Research & Mentoring | 🎨 UI/UX Design
 
 ## 🤝 Let’s Connect
 
-Whether it's contributing to open-source, building AI agents, discussing or just connecting — I’m always up for a good conversation.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/adityathiyyagura)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/adityathiyyagura)
+I’m always open to conversations — be it about open-source, building practical AI, design, or just sharing ideas.
 
 ---
-_“From architecture to inference — making AI useful, usable, and used.”_
+_Making AI useful, usable, and used._
